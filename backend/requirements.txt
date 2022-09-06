@@ -40,7 +40,7 @@ idna==3.2
 iniconfig==1.1.1
 injector==0.18.4
 jsonschema==3.2.0
-Mako==1.1.5
+Mako==1.2.2
 MarkupSafe==2.0.1
 multidict==5.1.0
 neo4j==4.3.3
