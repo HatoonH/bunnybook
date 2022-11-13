@@ -86,5 +86,5 @@ uvicorn==0.14.0
 uvloop==0.15.3
 watchgod==0.7
 websocket-client==0.59.0
-websockets==9.1
+websockets==10.0
 yarl==1.6.3
